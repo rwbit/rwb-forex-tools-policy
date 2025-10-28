@@ -61,9 +61,7 @@ This repository is used to:
 
 For any questions or support:  
 **Email:** [rwbit2015@gmail.com](mailto:rwbit2015@gmail.com)
-
 **Phone:** +8801604651855
-
 **WhatsApp:** +8801604651855
 
 ---
