@@ -13,7 +13,6 @@ This repository hosts the **Terms of Use** and **Privacy Policy** for the app, e
 - Lot Size Calculator  
 - Win/Loss Ratio  
 - Risk/Reward Breakeven  
-- Pip Value Estimator  
 
 > **No real trading. No brokerage. No financial advice.**  
 > All calculations are performed **locally on your device**.
