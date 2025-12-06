@@ -68,4 +68,4 @@ For any questions or support:
 ---
 
 **Last updated:** October 28, 2025  
-**© 2025 RWB IT. All rights reserved.**
+**© 2025 [RWB IT](https://rwbit.com). All rights reserved.**
